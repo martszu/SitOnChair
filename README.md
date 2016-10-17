@@ -1,4 +1,4 @@
 # SitOnChair
 Simple Sit On Chair landing page from Coder's Lab classes
 
-![My image](github.com/martszu/SitOnChair/sitonchair.png)
+![My image](sitonchair.png)
